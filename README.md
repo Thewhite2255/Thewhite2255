@@ -1,12 +1,23 @@
-- 👋 Hello, I'm @Thewhite2255
-- 👀 I am interested in programming, coding. In short, everything related to computers 😉
-- 🌱 I am currently learning Js, Html, Css,
-- 🔭 I’m currently working on personal projects
-- 👨‍💻 All of my projects are available on github
-- 📫 How to reach me:
-my gmail: ingedergueb@gmail.com
+![laptop](src/laptop.gif)
 
-<!---
-Thewhite2255/Thewhite2255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">👋 Hello, I'm Thewhite2255</h1>
+ 
+<h3 align="center">&#8220;The most difficult part of programming isn’t solving problems, it’s understanding the task&#8221;</h3>
+
+<img align="right" alt="Coding" width="400" src="src/programer.gif" />
+
+- 👀 I’am interested in programming, coding. In short, everything that refers to computers 😉
+
+- 🔭 I’m currently working on [personal projects][github]
+
+- 🌱 I’m currently learning **Front-End**
+
+- 👨‍💻 All of my projects are available on [github]
+
+- 📫 How to reach me: my gmail: ingedergueb@gmail.com
+
+<h3>Connect with me: <h3>
+
+<a href="https://discord.gg/7ZHf5UTj" >  <img src="src/discord.gif" width="48px" height="48px"/></a>
+
+[github]: https://github.com/Thewhite2255?tab=repositories
