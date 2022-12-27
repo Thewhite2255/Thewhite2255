@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on personal projects
 - 👨‍💻 All of my projects are available on github
 - 📫 How to reach me:
-My gmail: ingedergueb@gmail.com
+my gmail: ingedergueb@gmail.com
 
 <!---
 Thewhite2255/Thewhite2255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
