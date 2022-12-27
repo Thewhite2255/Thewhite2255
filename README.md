@@ -18,6 +18,6 @@
 
 <h3>Connect with me: <h3>
 
-<a href="https://discord.gg/7ZHf5UTj" >  <img src="src/discord.gif" width="48px" height="48px"/></a>
+<a href="https://discord.gg/7ZHf5UTj" target="_blank">  <img src="src/discord.gif" width="48px" height="48px"/></a>
 
 [github]: https://github.com/Thewhite2255?tab=repositories
